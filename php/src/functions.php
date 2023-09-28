@@ -63,10 +63,10 @@ function llevaDavant(int $num, int $cant): int{
         return substr($num, $cantidadRestante);
 }
 
-function peseta2euros(int $cant, int $cot = 166){
+function peseta2euros(float $cant, float $cot = 166){
     return $cant / $cot;
 }
 
-function euro2pesetes(int $cant, int $cot = 166){
+function euro2pesetes(float $cant, float $cot = 166){
     return $cant * $cot;
 }

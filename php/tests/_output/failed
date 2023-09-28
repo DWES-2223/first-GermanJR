@@ -2,3 +2,6 @@ tests/acceptance/ArraysCest.php:try233WorksTest
 tests/acceptance/BuclesCest.php:try225WorksTest
 tests/acceptance/BuclesCest.php:try226WorksTest
 tests/acceptance/BuclesCest.php:try227WorksTest
+tests/acceptance/FuncionsCest.php:try245WorksTest
+tests/acceptance/FuncionsCest.php:try246WorksTest
+tests/acceptance/FuncionsCest.php:try251WorksTest
